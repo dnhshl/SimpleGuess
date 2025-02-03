@@ -10,7 +10,7 @@ android {
     compileSdk = 35
 
     defaultConfig {
-        applicationId = "com.example.main"
+        applicationId = "com.example.main.simpleguess"
         minSdk = 29
         targetSdk = 35
         versionCode = 1
