@@ -1,5 +1,13 @@
 <resources>
-    <string name="app_name">SimpleCalc2025</string>
+    <string name="app_name">SimpleGuess</string>
 
-    <string name="error_message">Bitte tragen Sie in beiden Feldern Integer Zahlen ein.</string>
+    <string name="error_message">Bitte tragen Sie eine Zahl zwischen 1 und 100 ein.</string>
+    <string name="start_game">starte neues Spiel</string>
+    <string name="info_message">Starten Sie das Spiel über den Button.\nErraten Sie die zufällig gewählte Zahl zwischen 1 und 100 in möglichst wenigen Versuchen.</string>
+    <string name="too_low">Zahl ist zu niedrig</string>
+    <string name="too_high">Zahl ist zu hoch</string>
+    <string name="correct">Super, korrekt!</string>
+    <string name="unknown_state">Unbekannter Status</string>
+    <string name="guess_number">OK</string>
+    <string name="attempts">Sie haben %d Versuche benötigt!</string>
 </resources>
